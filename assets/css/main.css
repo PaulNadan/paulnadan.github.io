@@ -2444,6 +2444,16 @@ body {
     display: none !important;
     }
 }
+@media (min-width: 980px){
+    .tablet{
+    display: none !important;
+    }
+}
+@media (max-width: 768px){
+    .tablet{
+    display: none !important;
+    }
+}
 #header {
   -moz-align-items: center;
   -webkit-align-items: center;
